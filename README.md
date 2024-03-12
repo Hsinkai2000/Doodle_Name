@@ -36,7 +36,7 @@ For any questions, feedback, or issues related to Paint+, please contact our sup
 
 ## Contributing
 
-We welcome contributions from the community to enhance Paint+ and add new features. If you're interested in contributing, please check out our GitHub repository [Paint+](https://github.com/paint+) for guidelines and instructions on how to get started.
+We welcome contributions from the community to enhance Paint+ and add new features. If you're interested in contributing, please check out our GitHub repository [Paint+](https://github.com/Hsinkai2000/Paint_Plus) for guidelines and instructions on how to get started.
 
 ## License
 
